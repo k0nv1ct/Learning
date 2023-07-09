@@ -18,6 +18,11 @@ This repository contains code files that explore the foundations of machine lear
 To run the code in this repository, you'll need the following dependencies:
 
 - Python 3.x
+- Numpy
+- Matplotlib
+- pandas
+- Seaborn
+- NLTK
 
 ## Algorithms
 
